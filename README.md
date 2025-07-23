@@ -4,7 +4,7 @@ The full report will availble here (xxx) once officially releasesd on the univer
  
 In this Appendix you can find the following material;
 
-A - Stick_With_Eggs_Generator Python Jupyter Notebook is the main file for synthetic data generation, including synthetic annotations and dataset structure creation in yolo format. <br />
+A - Stick_With_Eggs_Generator Python Jupyter Notebook is the main file for synthetic data generation, including synthetic annotations and dataset structure creation in yolo format.<br />
 B - Semi-Automatic Cropping tool for processing raw real_world data <br />
 C - Texture Process Tool for processesing 18 textures and capturing unique selection in a Json file used in Stick_With_Eggs_Generator <br />
 D - train_yolo_single_class.py Trains the synthetically generated dataset in with yolov8n trained to detect Mosquito Eggs <br />
@@ -25,6 +25,9 @@ K - Fonts folder with all the handwritten fonts used for synthetic labels <br />
 L - Raw Real-World Data for reference <br />
 <br />
 
+In order to use the Stick With Eggs Generator, you must first dowload python 3.13.2 and material J and K (TEXTURES and fonts, located on Dropbox), then update the script with your local paths to the location of the these files respectively, and set a local output directory.
+
+<br />
 **Worflow Diagram:**
 
 <img src="workflow_pipeline.png" alt="Workflow Diagram" width="800">
