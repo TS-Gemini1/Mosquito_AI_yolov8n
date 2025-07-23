@@ -26,8 +26,8 @@ L - Raw Real-World Data for reference <br />
 <br />
 
 In order to use the Stick With Eggs Generator, you must first dowload python 3.13.2 and material J and K (TEXTURES and fonts, located on Dropbox), then update the script with your local paths to the location of the these files respectively, and set a local output directory.
-
 <br />
+
 **Worflow Diagram:**
 
 <img src="workflow_pipeline.png" alt="Workflow Diagram" width="800">
