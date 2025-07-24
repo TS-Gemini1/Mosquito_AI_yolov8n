@@ -1,5 +1,5 @@
 This Repository is a dynamic Appendix for Theo Syriopoulos' Bachelor Thesis report on "AI Detection & Counting of Mosquito Eggs" for his bachelors in Creative Technology at the University of Twente. 
-The full report will availble here (xxx) once officially releasesd on the university's platform. <br />
+The completed Thesis report is availble in the dropbox, here ([Thesis Report](https://www.dropbox.com/scl/fi/33v1njct3nmnu7cwpmwjd/Thesis_Syriopoulos_BA_EEMCS.pdf?rlkey=jte9vsdclwbqkiejgvsx3iugg&st=r694tddd&dl=0)), soon also availble on the university's official library. <br />
 
  
 In this Appendix you can find the following material;
@@ -23,9 +23,10 @@ I - Prediction Visualisations <br />
 J - Textures folder with all the Wodden textures used and config.json files that amplifies selections <br />
 K - Fonts folder with all the handwritten fonts used for synthetic labels <br />
 L - Raw Real-World Data for reference <br />
+M - My Bachelor Thesis with relevant research and documentation <br />
 <br />
 
-In order to use the Stick With Eggs Generator, you must first dowload python 3.13.2 and material J and K (TEXTURES and fonts, located on Dropbox), then update the script with your local paths to the location of the these files respectively, and set a local output directory.
+Note: In order to use the Stick With Eggs Generator, you must first dowload python 3.13.2 and material J and K (TEXTURES and fonts, located on Dropbox), then update the script with your local paths to the location of the these files respectively, and set a local output directory.
 <br />
 
 **Worflow Diagram:**
